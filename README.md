@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am not a developer.
+
+But, hey, let’s see if I can do some damage.
+
 <!--
 **nicoappel/nicoappel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
